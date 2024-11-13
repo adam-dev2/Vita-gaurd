@@ -1,51 +1,29 @@
 [
   {
-    "id": "d8abcc70-05e8-4941-a9f4-c9e1440f4d74",
-    "username": "shaikadam252@gmail.com",
-    "password": "$2a$10$c2v/cp1DC63NHhGftv1Y1eyWnZ9Fgmsl9yOnIIz4x.dzkpuk1EL8O",
+    "id": "6d8256db-e810-45cf-ba49-1671967a5784",
+    "username": "rat",
+    "password": "$2a$10$ipSdhehj2kHvwPR3/m/1XeiBUDm.OnGbW/10cRN0z.I/kmIJrTzzC",
     "inventory": [
       {
-        "name": "Apple",
-        "nutrients": {
-          "Protein": "0.3g",
-          "Vitamin D": "-",
-          "Calcium": "6mg",
-          "Iron": "0.1mg",
-          "Potassium": "107mg",
-          "Vitamin A": "54mcg",
-          "Vitamin C": "4.6mg"
-        }
+        "name": "Saffron Rice",
+        "nutrients": {}
       },
       {
         "name": "Saffron Rice",
-        "nutrients": {
-          "calories": 250,
-          "protein": "5.0g",
-          "carbohydrates": "40.0g",
-          "fat": "8.0g",
-          "fiber": "2.0g",
-          "calcium": "20mg",
-          "iron": "1.0mg"
-        }
+        "nutrients": {}
       },
       {
-        "name": "Karela Ki Sabzi",
-        "nutrients": {
-          "calories": 70,
-          "protein": "3.0g",
-          "carbohydrates": "14.0g",
-          "fat": "1.0g",
-          "fiber": "4.0g",
-          "calcium": "20mg",
-          "iron": "0.8mg"
-        }
+        "name": "Roti",
+        "nutrients": {}
+      },
+      {
+        "name": "Baida Roti",
+        "nutrients": {}
+      },
+      {
+        "name": "Bitter Gourd (Karela)",
+        "nutrients": {}
       }
     ]
-  },
-  {
-    "id": "9b2daf82-69b7-43f2-a9ec-0a5262506d1b",
-    "username": "asdasd",
-    "password": "$2a$10$13EGHfo5MOJMb5rS.guZi.2phR5eoi4S8iBn2mr1b0K8Gk5/Ij2JW",
-    "inventory": []
   }
 ]

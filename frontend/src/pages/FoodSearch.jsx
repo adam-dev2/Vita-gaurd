@@ -55,7 +55,7 @@ const FoodSearch = () => {
             fullWidth
             sx={{ mb: 2 }}
           />
-          <Button onClick={handleSearch} variant="contained" color="success" disableRipple sx={{ mb: 3 }}>
+          <Button onClick={handleSearch} variant="contained" color="success" disableRipple  sx={{ mb: 3 }}>
             Search
           </Button>
           {error && <Typography color="error">{error}</Typography>}
