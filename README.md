@@ -72,12 +72,6 @@ The frontend should now be running at `http://localhost:5173`.
 - Open your browser and navigate to `http://localhost:5173` to access the VitaGuard website.
 - You can sign up or log in to start tracking your micronutrient intake.
 
-### Step 5: (Optional) Deploy to Production
-
-If you'd like to deploy the website to production, you can use services like **Heroku** for the backend and **Vercel** or **Netlify** for the frontend. Refer to their documentation for deployment guides.
-
----
-
 Feel free to open issues or contribute to the project if you have any ideas or improvements!
 
 
