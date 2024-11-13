@@ -1,4 +1,4 @@
-## Vita-gaurd
+## VITAGUARD
 # Micronutrient Tracker Website
 
 A comprehensive, user-friendly website built with the MERN stack to help users track their daily vitamin and mineral intake and make informed dietary choices. Key components of the project include:
