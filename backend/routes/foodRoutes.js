@@ -1,10 +1,11 @@
 // routes/foodRoutes.js
 const express = require('express');
-const { searchFood, addToInventory } = require('../controllers/foodController');
+const { searchFood, addToInventory, getInventory } = require('../controllers/foodController');
 const authMiddleware = require('../middlewear/authMiddleware');
 const router = express.Router();
 
-router.get('/search', searchFood);          // GET /food/search
-router.post('/inventory', addToInventory);  // POST /food/inventory
+router.get('/search',authMiddleware, searchFood);         
+router.post('/inventory',authMiddleware, addToInventory); 
+router.get('/inventory',authMiddleware, getInventory)
 
 module.exports = router;

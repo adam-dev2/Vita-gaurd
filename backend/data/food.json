@@ -1094,7 +1094,7 @@
   
     {
         "name": "Roti",
-        "nutrition": {
+        "nutrients": {
           "calories": 120,
           "protein": "3.0g",
           "carbohydrates": "30.0g",
@@ -1106,7 +1106,7 @@
       },
       {
         "name": "Naan",
-        "nutrition": {
+        "nutrients": {
           "calories": 280,
           "protein": "8.0g",
           "carbohydrates": "45.0g",
@@ -1118,7 +1118,7 @@
       },
       {
         "name": "Paratha",
-        "nutrition": {
+        "nutrients": {
           "calories": 200,
           "protein": "5.0g",
           "carbohydrates": "30.0g",
@@ -1130,7 +1130,7 @@
       },
       {
         "name": "Methi Thepla",
-        "nutrition": {
+        "nutrients": {
           "calories": 150,
           "protein": "5.0g",
           "carbohydrates": "26.0g",
@@ -1142,7 +1142,7 @@
       },
       {
         "name": "Amritsari Kulcha",
-        "nutrition": {
+        "nutrients": {
           "calories": 280,
           "protein": "9.0g",
           "carbohydrates": "40.0g",
@@ -1154,7 +1154,7 @@
       },
       {
         "name": "Cheese Paratha",
-        "nutrition": {
+        "nutrients": {
           "calories": 290,
           "protein": "9.0g",
           "carbohydrates": "45.0g",
@@ -1166,7 +1166,7 @@
       },
       {
         "name": "Onion Paratha",
-        "nutrition": {
+        "nutrients": {
           "calories": 220,
           "protein": "5.0g",
           "carbohydrates": "35.0g",
@@ -1178,7 +1178,7 @@
       },
       {
         "name": "Palak Paratha",
-        "nutrition": {
+        "nutrients": {
           "calories": 210,
           "protein": "5.0g",
           "carbohydrates": "34.0g",
@@ -1190,7 +1190,7 @@
       },
       {
         "name": "Fenugreek Paratha",
-        "nutrition": {
+        "nutrients": {
           "calories": 200,
           "protein": "5.5g",
           "carbohydrates": "32.0g",
@@ -1203,7 +1203,7 @@
   
       {
         "name": "Toor Dal",
-        "nutrition": {
+        "nutrients": {
           "calories": 150,
           "protein": "10.0g",
           "carbohydrates": "27.0g",
@@ -1215,7 +1215,7 @@
       },
       {
         "name": "Moong Dal",
-        "nutrition": {
+        "nutrients": {
           "calories": 120,
           "protein": "8.0g",
           "carbohydrates": "22.0g",
@@ -1227,7 +1227,7 @@
       },
       {
         "name": "Masoor Dal",
-        "nutrition": {
+        "nutrients": {
           "calories": 150,
           "protein": "9.0g",
           "carbohydrates": "26.0g",
@@ -1239,7 +1239,7 @@
       },
       {
         "name": "Chana Dal",
-        "nutrition": {
+        "nutrients": {
           "calories": 180,
           "protein": "10.0g",
           "carbohydrates": "28.0g",
@@ -1251,7 +1251,7 @@
       },
       {
         "name": "Urad Dal",
-        "nutrition": {
+        "nutrients": {
           "calories": 200,
           "protein": "13.0g",
           "carbohydrates": "30.0g",
@@ -1263,7 +1263,7 @@
       },
       {
         "name": "Rajma",
-        "nutrition": {
+        "nutrients": {
           "calories": 127,
           "protein": "8.7g",
           "carbohydrates": "22.8g",
@@ -1275,7 +1275,7 @@
       },
       {
         "name": "Lentil Soup",
-        "nutrition": {
+        "nutrients": {
           "calories": 140,
           "protein": "9.0g",
           "carbohydrates": "23.0g",
@@ -1287,7 +1287,7 @@
       },
       {
         "name": "Dal Makhani",
-        "nutrition": {
+        "nutrients": {
           "calories": 250,
           "protein": "12.0g",
           "carbohydrates": "30.0g",
@@ -1299,7 +1299,7 @@
       },
       {
         "name": "Dal Tadka",
-        "nutrition": {
+        "nutrients": {
           "calories": 200,
           "protein": "10.0g",
           "carbohydrates": "29.0g",
@@ -1311,7 +1311,7 @@
       },
       {
         "name": "Sambar",
-        "nutrition": {
+        "nutrients": {
           "calories": 130,
           "protein": "8.0g",
           "carbohydrates": "25.0g",
@@ -1323,7 +1323,7 @@
       },
       {
         "name": "Cabbage Paratha",
-        "nutrition": {
+        "nutrients": {
           "calories": 210,
           "protein": "5.0g",
           "carbohydrates": "30.0g",
@@ -1359,7 +1359,7 @@
     },
         {
           "name": "Aloo Ki Sabzi",
-          "nutrition": {
+          "nutrients": {
             "calories": 130,
             "protein": "2.0g",
             "carbohydrates": "30.0g",
@@ -1371,7 +1371,7 @@
         },
         {
           "name": "Aloo Ka Jhol",
-          "nutrition": {
+          "nutrients": {
             "calories": 150,
             "protein": "3.0g",
             "carbohydrates": "32.0g",
@@ -1383,7 +1383,7 @@
         },
         {
           "name": "Bhindi Ki Sabzi",
-          "nutrition": {
+          "nutrients": {
             "calories": 80,
             "protein": "3.0g",
             "carbohydrates": "15.0g",
@@ -1395,7 +1395,7 @@
         },
         {
           "name": "Gobi Ki Sabzi",
-          "nutrition": {
+          "nutrients": {
             "calories": 90,
             "protein": "4.0g",
             "carbohydrates": "18.0g",
@@ -1407,7 +1407,7 @@
         },
         {
           "name": "Palak Ki Sabzi",
-          "nutrition": {
+          "nutrients": {
             "calories": 70,
             "protein": "5.0g",
             "carbohydrates": "10.0g",
@@ -1419,7 +1419,7 @@
         },
         {
           "name": "Baingan Bharta",
-          "nutrition": {
+          "nutrients": {
             "calories": 120,
             "protein": "3.0g",
             "carbohydrates": "22.0g",
@@ -1431,7 +1431,7 @@
         },
         {
           "name": "Karela Ki Sabzi",
-          "nutrition": {
+          "nutrients": {
             "calories": 70,
             "protein": "3.0g",
             "carbohydrates": "14.0g",
@@ -1443,7 +1443,7 @@
         },
         {
           "name": "Daal Tadka",
-          "nutrition": {
+          "nutrients": {
             "calories": 200,
             "protein": "10.0g",
             "carbohydrates": "29.0g",
@@ -1455,7 +1455,7 @@
         },
         {
           "name": "Methi Thepla",
-          "nutrition": {
+          "nutrients": {
             "calories": 180,
             "protein": "5.0g",
             "carbohydrates": "30.0g",
@@ -1467,7 +1467,7 @@
         },
         {
           "name": "Chana Masala",
-          "nutrition": {
+          "nutrients": {
             "calories": 220,
             "protein": "11.0g",
             "carbohydrates": "30.0g",
@@ -1479,7 +1479,7 @@
         },
         {
           "name": "Aloo Methi",
-          "nutrition": {
+          "nutrients": {
             "calories": 140,
             "protein": "3.0g",
             "carbohydrates": "28.0g",
@@ -1491,7 +1491,7 @@
         },
         {
           "name": "Mixed Vegetable Curry",
-          "nutrition": {
+          "nutrients": {
             "calories": 150,
             "protein": "5.0g",
             "carbohydrates": "20.0g",
@@ -1503,7 +1503,7 @@
         },
         {
           "name": "Aloo Palak",
-          "nutrition": {
+          "nutrients": {
             "calories": 120,
             "protein": "4.0g",
             "carbohydrates": "20.0g",
@@ -1515,7 +1515,7 @@
         },
         {
           "name": "Vegetable Pulao",
-          "nutrition": {
+          "nutrients": {
             "calories": 180,
             "protein": "4.0g",
             "carbohydrates": "30.0g",
@@ -1527,7 +1527,7 @@
         },
         {
           "name": "Aloo Tamatar",
-          "nutrition": {
+          "nutrients": {
             "calories": 140,
             "protein": "3.0g",
             "carbohydrates": "29.0g",
@@ -1539,7 +1539,7 @@
         },
         {
           "name": "Mushroom Masala",
-          "nutrition": {
+          "nutrients": {
             "calories": 110,
             "protein": "5.0g",
             "carbohydrates": "12.0g",
@@ -1551,7 +1551,7 @@
         },
         {
           "name": "Aloo Baingan",
-          "nutrition": {
+          "nutrients": {
             "calories": 130,
             "protein": "3.0g",
             "carbohydrates": "26.0g",
@@ -1563,7 +1563,7 @@
         },
         {
           "name": "Bottle Gourd Ki Sabzi",
-          "nutrition": {
+          "nutrients": {
             "calories": 60,
             "protein": "2.0g",
             "carbohydrates": "15.0g",
@@ -1575,7 +1575,7 @@
         },
         {
           "name": "Pav Bhaji",
-          "nutrition": {
+          "nutrients": {
             "calories": 250,
             "protein": "8.0g",
             "carbohydrates": "40.0g",
@@ -1587,7 +1587,7 @@
         },
         {
           "name": "Dal Makhani",
-          "nutrition": {
+          "nutrients": {
             "calories": 300,
             "protein": "15.0g",
             "carbohydrates": "35.0g",
@@ -1599,7 +1599,7 @@
         },
         {
           "name": "Bhindi Masala",
-          "nutrition": {
+          "nutrients": {
             "calories": 100,
             "protein": "3.0g",
             "carbohydrates": "18.0g",
@@ -1611,7 +1611,7 @@
         },
         {
           "name": "Cabbage Ki Sabzi",
-          "nutrition": {
+          "nutrients": {
             "calories": 70,
             "protein": "3.0g",
             "carbohydrates": "15.0g",
@@ -1623,7 +1623,7 @@
         },
         {
           "name": "Pumpkin Ki Sabzi",
-          "nutrition": {
+          "nutrients": {
             "calories": 80,
             "protein": "2.0g",
             "carbohydrates": "20.0g",
@@ -1635,7 +1635,7 @@
         },
         {
           "name": "Patti Sabzi",
-          "nutrition": {
+          "nutrients": {
             "calories": 90,
             "protein": "3.0g",
             "carbohydrates": "16.0g",
@@ -1647,7 +1647,7 @@
         },
         {
           "name": "Aloo Gajar Methi",
-          "nutrition": {
+          "nutrients": {
             "calories": 140,
             "protein": "3.0g",
             "carbohydrates": "28.0g",
@@ -1659,7 +1659,7 @@
         },
         {
           "name": "Aloo Bhindi",
-          "nutrition": {
+          "nutrients": {
             "calories": 130,
             "protein": "3.0g",
             "carbohydrates": "25.0g",
@@ -1671,7 +1671,7 @@
         },
         {
           "name": "Kadhi Pakora",
-          "nutrition": {
+          "nutrients": {
             "calories": 220,
             "protein": "8.0g",
             "carbohydrates": "28.0g",
@@ -1683,7 +1683,7 @@
         },
         {
           "name": "Bitter Gourd Stir Fry",
-          "nutrition": {
+          "nutrients": {
             "calories": 70,
             "protein": "2.0g",
             "carbohydrates": "14.0g",
@@ -1695,7 +1695,7 @@
         },
         {
           "name": "Carrot and Peas Sabzi",
-          "nutrition": {
+          "nutrients": {
             "calories": 100,
             "protein": "4.0g",
             "carbohydrates": "18.0g",
@@ -1707,7 +1707,7 @@
         },
         {
           "name": "Rajma Masala",
-          "nutrition": {
+          "nutrients": {
             "calories": 240,
             "protein": "12.0g",
             "carbohydrates": "42.0g",
@@ -1719,7 +1719,7 @@
         },
         {
           "name": "Spinach and Potato",
-          "nutrition": {
+          "nutrients": {
             "calories": 110,
             "protein": "4.0g",
             "carbohydrates": "20.0g",
@@ -1731,7 +1731,7 @@
         },
         {
           "name": "Corn Palak",
-          "nutrition": {
+          "nutrients": {
             "calories": 120,
             "protein": "5.0g",
             "carbohydrates": "22.0g",
@@ -1743,7 +1743,7 @@
         },
         {
           "name": "Dhokla",
-          "nutrition": {
+          "nutrients": {
             "calories": 140,
             "protein": "6.0g",
             "carbohydrates": "28.0g",
@@ -1755,7 +1755,7 @@
         },
         {
           "name": "Vegetable Sambar",
-          "nutrition": {
+          "nutrients": {
             "calories": 150,
             "protein": "6.0g",
             "carbohydrates": "30.0g",
@@ -1767,7 +1767,7 @@
         },
         {
           "name": "Turai Ki Sabzi",
-          "nutrition": {
+          "nutrients": {
             "calories": 70,
             "protein": "2.0g",
             "carbohydrates": "14.0g",
@@ -1779,7 +1779,7 @@
         },
         {
           "name": "Aloo Baingan Raita",
-          "nutrition": {
+          "nutrients": {
             "calories": 80,
             "protein": "3.0g",
             "carbohydrates": "15.0g",
@@ -1791,7 +1791,7 @@
         },
         {
           "name": "Vegetable Cutlets",
-          "nutrition": {
+          "nutrients": {
             "calories": 200,
             "protein": "5.0g",
             "carbohydrates": "35.0g",
@@ -1803,7 +1803,7 @@
         },
         {
           "name": "Paneer Bhurji",
-          "nutrition": {
+          "nutrients": {
             "calories": 250,
             "protein": "20.0g",
             "carbohydrates": "10.0g",
@@ -1815,7 +1815,7 @@
         },
         {
           "name": "Tomato Chutney",
-          "nutrition": {
+          "nutrients": {
             "calories": 50,
             "protein": "2.0g",
             "carbohydrates": "8.0g",
@@ -1827,7 +1827,7 @@
         },
         {
           "name": "Vegetable Pakora",
-          "nutrition": {
+          "nutrients": {
             "calories": 300,
             "protein": "8.0g",
             "carbohydrates": "40.0g",
@@ -1839,7 +1839,7 @@
         },
         {
           "name": "Pongal",
-          "nutrition": {
+          "nutrients": {
             "calories": 220,
             "protein": "7.0g",
             "carbohydrates": "42.0g",
@@ -1851,7 +1851,7 @@
         },
         {
           "name": "Onion Bhaji",
-          "nutrition": {
+          "nutrients": {
             "calories": 150,
             "protein": "4.0g",
             "carbohydrates": "20.0g",
@@ -1863,7 +1863,7 @@
         },
         {
           "name": "Kofta Curry",
-          "nutrition": {
+          "nutrients": {
             "calories": 270,
             "protein": "8.0g",
             "carbohydrates": "28.0g",
@@ -1875,7 +1875,7 @@
         },
         {
           "name": "Methi Malai Murg",
-          "nutrition": {
+          "nutrients": {
             "calories": 320,
             "protein": "24.0g",
             "carbohydrates": "12.0g",
@@ -1887,7 +1887,7 @@
         },
         {
           "name": "Chole Bhature",
-          "nutrition": {
+          "nutrients": {
             "calories": 500,
             "protein": "15.0g",
             "carbohydrates": "80.0g",
@@ -1899,7 +1899,7 @@
         },
         {
           "name": "Baida Roti",
-          "nutrition": {
+          "nutrients": {
             "calories": 300,
             "protein": "10.0g",
             "carbohydrates": "40.0g",
@@ -1911,7 +1911,7 @@
         },
         {
           "name": "Bisi Bele Bath",
-          "nutrition": {
+          "nutrients": {
             "calories": 350,
             "protein": "12.0g",
             "carbohydrates": "55.0g",
@@ -1923,7 +1923,7 @@
         },
         {
           "name": "Khar",
-          "nutrition": {
+          "nutrients": {
             "calories": 280,
             "protein": "10.0g",
             "carbohydrates": "50.0g",
@@ -1935,7 +1935,7 @@
         },
         {
           "name": "Paneer Tikka",
-          "nutrition": {
+          "nutrients": {
             "calories": 330,
             "protein": "20.0g",
             "carbohydrates": "30.0g",
@@ -1947,7 +1947,7 @@
         },
         {
           "name": "Rasmalai",
-          "nutrition": {
+          "nutrients": {
             "calories": 200,
             "protein": "4.0g",
             "carbohydrates": "30.0g",
@@ -1959,7 +1959,7 @@
         },
         {
           "name": "Gajar Halwa",
-          "nutrition": {
+          "nutrients": {
             "calories": 250,
             "protein": "5.0g",
             "carbohydrates": "35.0g",
@@ -1971,7 +1971,7 @@
         },
         {
           "name": "Peda",
-          "nutrition": {
+          "nutrients": {
             "calories": 150,
             "protein": "4.0g",
             "carbohydrates": "25.0g",
@@ -1983,7 +1983,7 @@
         },
         {
           "name": "Kheer",
-          "nutrition": {
+          "nutrients": {
             "calories": 170,
             "protein": "4.0g",
             "carbohydrates": "28.0g",
@@ -1995,7 +1995,7 @@
         },
         {
           "name": "Bhaaji",
-          "nutrition": {
+          "nutrients": {
             "calories": 90,
             "protein": "3.0g",
             "carbohydrates": "15.0g",
@@ -2007,7 +2007,7 @@
         },
         {
           "name": "Seviyan",
-          "nutrition": {
+          "nutrients": {
             "calories": 200,
             "protein": "5.0g",
             "carbohydrates": "32.0g",
@@ -2019,7 +2019,7 @@
         },
         {
           "name": "Uttapam",
-          "nutrition": {
+          "nutrients": {
             "calories": 250,
             "protein": "7.0g",
             "carbohydrates": "35.0g",
@@ -2031,7 +2031,7 @@
         },
         {
           "name": "Chaas",
-          "nutrition": {
+          "nutrients": {
             "calories": 80,
             "protein": "4.0g",
             "carbohydrates": "10.0g",
@@ -2043,7 +2043,7 @@
         },
         {
           "name": "Aloo Chaat",
-          "nutrition": {
+          "nutrients": {
             "calories": 150,
             "protein": "4.0g",
             "carbohydrates": "25.0g",
@@ -2055,7 +2055,7 @@
         },
         {
           "name": "Vegetable Biryani",
-          "nutrition": {
+          "nutrients": {
             "calories": 300,
             "protein": "10.0g",
             "carbohydrates": "50.0g",
@@ -2067,7 +2067,7 @@
         },
         {
           "name": "Pulao",
-          "nutrition": {
+          "nutrients": {
             "calories": 270,
             "protein": "9.0g",
             "carbohydrates": "45.0g",
@@ -2079,7 +2079,7 @@
         },
         {
           "name": "Daal Tadka",
-          "nutrition": {
+          "nutrients": {
             "calories": 210,
             "protein": "9.0g",
             "carbohydrates": "35.0g",
@@ -2091,7 +2091,7 @@
         },
         {
           "name": "Methi Thepla",
-          "nutrition": {
+          "nutrients": {
             "calories": 180,
             "protein": "5.0g",
             "carbohydrates": "30.0g",
@@ -2103,7 +2103,7 @@
         },
         {
           "name": "Vegetable Manchurian",
-          "nutrition": {
+          "nutrients": {
             "calories": 230,
             "protein": "8.0g",
             "carbohydrates": "30.0g",
@@ -2115,7 +2115,7 @@
         },
         {
           "name": "Bhel Puri",
-          "nutrition": {
+          "nutrients": {
             "calories": 150,
             "protein": "3.0g",
             "carbohydrates": "25.0g",
@@ -2127,7 +2127,7 @@
         },
         {
           "name": "Palak Paneer",
-          "nutrition": {
+          "nutrients": {
             "calories": 350,
             "protein": "15.0g",
             "carbohydrates": "18.0g",
@@ -2139,7 +2139,7 @@
         },
         {
           "name": "Biryani",
-          "nutrition": {
+          "nutrients": {
             "calories": 420,
             "protein": "18.0g",
             "carbohydrates": "65.0g",
@@ -2151,7 +2151,7 @@
         },
         {
           "name": "Naan",
-          "nutrition": {
+          "nutrients": {
             "calories": 220,
             "protein": "7.0g",
             "carbohydrates": "36.0g",
@@ -2163,7 +2163,7 @@
         },
         {
           "name": "Tandoori Chicken",
-          "nutrition": {
+          "nutrients": {
             "calories": 350,
             "protein": "30.0g",
             "carbohydrates": "10.0g",
@@ -2175,7 +2175,7 @@
         },
         {
           "name": "Chole Bhature",
-          "nutrition": {
+          "nutrients": {
             "calories": 480,
             "protein": "15.0g",
             "carbohydrates": "65.0g",
@@ -2187,7 +2187,7 @@
         },
         {
           "name": "Fish Curry",
-          "nutrition": {
+          "nutrients": {
             "calories": 290,
             "protein": "25.0g",
             "carbohydrates": "10.0g",
@@ -2199,7 +2199,7 @@
         },
         {
           "name": "Prawn Curry",
-          "nutrition": {
+          "nutrients": {
             "calories": 320,
             "protein": "27.0g",
             "carbohydrates": "12.0g",
@@ -2211,7 +2211,7 @@
         },
         {
           "name": "Paneer Butter Masala",
-          "nutrition": {
+          "nutrients": {
             "calories": 500,
             "protein": "20.0g",
             "carbohydrates": "30.0g",
@@ -2223,7 +2223,7 @@
         },
         {
           "name": "Kadai Paneer",
-          "nutrition": {
+          "nutrients": {
             "calories": 400,
             "protein": "18.0g",
             "carbohydrates": "20.0g",
@@ -2235,7 +2235,7 @@
         },
         {
           "name": "Butter Chicken",
-          "nutrition": {
+          "nutrients": {
             "calories": 450,
             "protein": "25.0g",
             "carbohydrates": "15.0g",
@@ -2247,7 +2247,7 @@
         },
         {
           "name": "Daal Makhani",
-          "nutrition": {
+          "nutrients": {
             "calories": 300,
             "protein": "13.0g",
             "carbohydrates": "45.0g",
@@ -2259,7 +2259,7 @@
         },
         {
           "name": "Samosa",
-          "nutrition": {
+          "nutrients": {
             "calories": 150,
             "protein": "4.0g",
             "carbohydrates": "25.0g",
@@ -2271,7 +2271,7 @@
         },
         {
           "name": "Dhokla",
-          "nutrition": {
+          "nutrients": {
             "calories": 120,
             "protein": "5.0g",
             "carbohydrates": "20.0g",
@@ -2283,7 +2283,7 @@
         },
         {
           "name": "Masoor Daal",
-          "nutrition": {
+          "nutrients": {
             "calories": 220,
             "protein": "11.0g",
             "carbohydrates": "35.0g",
@@ -2295,7 +2295,7 @@
         },
         {
           "name": "Pav Bhaji",
-          "nutrition": {
+          "nutrients": {
             "calories": 400,
             "protein": "12.0g",
             "carbohydrates": "60.0g",
@@ -2307,7 +2307,7 @@
         },
         {
           "name": "Poha",
-          "nutrition": {
+          "nutrients": {
             "calories": 250,
             "protein": "5.0g",
             "carbohydrates": "40.0g",
@@ -2319,7 +2319,7 @@
         },
         {
           "name": "Puran Poli",
-          "nutrition": {
+          "nutrients": {
             "calories": 200,
             "protein": "6.0g",
             "carbohydrates": "35.0g",
@@ -2331,7 +2331,7 @@
         },
         {
           "name": "Thalipeeth",
-          "nutrition": {
+          "nutrients": {
             "calories": 210,
             "protein": "6.0g",
             "carbohydrates": "30.0g",
@@ -2343,7 +2343,7 @@
         },
         {
           "name": "Lassi",
-          "nutrition": {
+          "nutrients": {
             "calories": 120,
             "protein": "4.0g",
             "carbohydrates": "20.0g",
@@ -2355,7 +2355,7 @@
         },
         {
           "name": "Khaman",
-          "nutrition": {
+          "nutrients": {
             "calories": 110,
             "protein": "4.0g",
             "carbohydrates": "18.0g",
@@ -2367,7 +2367,7 @@
         },
         {
           "name": "Khichdi",
-          "nutrition": {
+          "nutrients": {
             "calories": 300,
             "protein": "10.0g",
             "carbohydrates": "45.0g",
@@ -2379,7 +2379,7 @@
         },
         {
           "name": "Dahi Puri",
-          "nutrition": {
+          "nutrients": {
             "calories": 130,
             "protein": "3.0g",
             "carbohydrates": "22.0g",
@@ -2391,7 +2391,7 @@
         },
         {
           "name": "Bhindi Fry",
-          "nutrition": {
+          "nutrients": {
             "calories": 150,
             "protein": "5.0g",
             "carbohydrates": "20.0g",
@@ -2403,7 +2403,7 @@
         },
         {
           "name": "Egg Curry",
-          "nutrition": {
+          "nutrients": {
             "calories": 300,
             "protein": "15.0g",
             "carbohydrates": "15.0g",
@@ -2415,7 +2415,7 @@
         },
         {
           "name": "Methi Daal",
-          "nutrition": {
+          "nutrients": {
             "calories": 200,
             "protein": "9.0g",
             "carbohydrates": "32.0g",
@@ -2427,7 +2427,7 @@
         },
         {
           "name": "Vegetable Pakora",
-          "nutrition": {
+          "nutrients": {
             "calories": 250,
             "protein": "6.0g",
             "carbohydrates": "35.0g",
@@ -2439,7 +2439,7 @@
         },
         {
           "name": "Aloo Gobi",
-          "nutrition": {
+          "nutrients": {
             "calories": 160,
             "protein": "4.0g",
             "carbohydrates": "25.0g",
@@ -2451,7 +2451,7 @@
         },
         {
           "name": "Rajma",
-          "nutrition": {
+          "nutrients": {
             "calories": 240,
             "protein": "15.0g",
             "carbohydrates": "40.0g",
@@ -2463,7 +2463,7 @@
         },
         {
           "name": "Mashed Potatoes",
-          "nutrition": {
+          "nutrients": {
             "calories": 200,
             "protein": "4.0g",
             "carbohydrates": "35.0g",
@@ -2475,7 +2475,7 @@
         },
         {
           "name": "Paneer Tikka",
-          "nutrition": {
+          "nutrients": {
             "calories": 250,
             "protein": "18.0g",
             "carbohydrates": "15.0g",
@@ -2487,7 +2487,7 @@
         },
         {
           "name": "Biryani",
-          "nutrition": {
+          "nutrients": {
             "calories": 400,
             "protein": "12.0g",
             "carbohydrates": "60.0g",
@@ -2499,7 +2499,7 @@
         },
         {
           "name": "Chaat",
-          "nutrition": {
+          "nutrients": {
             "calories": 200,
             "protein": "5.0g",
             "carbohydrates": "30.0g",
@@ -2511,7 +2511,7 @@
         },
         {
           "name": "Palak Paneer",
-          "nutrition": {
+          "nutrients": {
             "calories": 350,
             "protein": "15.0g",
             "carbohydrates": "20.0g",
@@ -2523,7 +2523,7 @@
         },
         {
           "name": "Aloo Paratha",
-          "nutrition": {
+          "nutrients": {
             "calories": 270,
             "protein": "8.0g",
             "carbohydrates": "45.0g",
@@ -2535,7 +2535,7 @@
         },
         {
           "name": "Gajar Halwa",
-          "nutrition": {
+          "nutrients": {
             "calories": 300,
             "protein": "4.0g",
             "carbohydrates": "40.0g",
@@ -2547,7 +2547,7 @@
         },
         {
           "name": "Idli",
-          "nutrition": {
+          "nutrients": {
             "calories": 140,
             "protein": "3.0g",
             "carbohydrates": "30.0g",
@@ -2559,7 +2559,7 @@
         },
         {
           "name": "Aloo Tikki",
-          "nutrition": {
+          "nutrients": {
             "calories": 200,
             "protein": "4.0g",
             "carbohydrates": "35.0g",
@@ -2571,7 +2571,7 @@
         },
         {
           "name": "Cheese Naan",
-          "nutrition": {
+          "nutrients": {
             "calories": 290,
             "protein": "10.0g",
             "carbohydrates": "50.0g",
@@ -2583,7 +2583,7 @@
         },
         {
           "name": "Bhel Puri",
-          "nutrition": {
+          "nutrients": {
             "calories": 180,
             "protein": "4.0g",
             "carbohydrates": "30.0g",
@@ -2595,7 +2595,7 @@
         },
         {
           "name": "Methi Thepla",
-          "nutrition": {
+          "nutrients": {
             "calories": 210,
             "protein": "8.0g",
             "carbohydrates": "30.0g",
@@ -2607,7 +2607,7 @@
         },
         {
           "name": "Vegetable Biryani",
-          "nutrition": {
+          "nutrients": {
             "calories": 350,
             "protein": "10.0g",
             "carbohydrates": "55.0g",
@@ -2619,7 +2619,7 @@
         },
         {
           "name": "Aloo Chaat",
-          "nutrition": {
+          "nutrients": {
             "calories": 250,
             "protein": "6.0g",
             "carbohydrates": "40.0g",
@@ -2631,7 +2631,7 @@
         },
         {
           "name": "Bhindi Masala",
-          "nutrition": {
+          "nutrients": {
             "calories": 170,
             "protein": "5.0g",
             "carbohydrates": "25.0g",
@@ -2643,7 +2643,7 @@
         },
         {
           "name": "Mutton Biryani",
-          "nutrition": {
+          "nutrients": {
             "calories": 500,
             "protein": "20.0g",
             "carbohydrates": "60.0g",
@@ -2655,7 +2655,7 @@
         },
             {
               "name": "Pizza",
-              "nutrition": {
+              "nutrients": {
                 "calories": 285,
                 "protein": "12.0g",
                 "carbohydrates": "36.0g",
@@ -2667,7 +2667,7 @@
             },
             {
               "name": "Cheeseburger",
-              "nutrition": {
+              "nutrients": {
                 "calories": 303,
                 "protein": "15.0g",
                 "carbohydrates": "32.0g",
@@ -2679,7 +2679,7 @@
             },
             {
               "name": "French Fries",
-              "nutrition": {
+              "nutrients": {
                 "calories": 365,
                 "protein": "3.0g",
                 "carbohydrates": "63.0g",
@@ -2691,7 +2691,7 @@
             },
             {
               "name": "Hot Dog",
-              "nutrition": {
+              "nutrients": {
                 "calories": 150,
                 "protein": "6.0g",
                 "carbohydrates": "2.0g",
@@ -2703,7 +2703,7 @@
             },
             {
               "name": "Nachos",
-              "nutrition": {
+              "nutrients": {
                 "calories": 300,
                 "protein": "7.0g",
                 "carbohydrates": "30.0g",
@@ -2715,7 +2715,7 @@
             },
             {
               "name": "Chicken Wings",
-              "nutrition": {
+              "nutrients": {
                 "calories": 290,
                 "protein": "19.0g",
                 "carbohydrates": "10.0g",
@@ -2727,7 +2727,7 @@
             },
             {
               "name": "Samosa Chaat",
-              "nutrition": {
+              "nutrients": {
                 "calories": 250,
                 "protein": "6.0g",
                 "carbohydrates": "40.0g",
@@ -2739,7 +2739,7 @@
             },
             {
               "name": "Paneer Burger",
-              "nutrition": {
+              "nutrients": {
                 "calories": 320,
                 "protein": "15.0g",
                 "carbohydrates": "35.0g",
@@ -2751,7 +2751,7 @@
             },
             {
               "name": "Cheese Fries",
-              "nutrition": {
+              "nutrients": {
                 "calories": 410,
                 "protein": "10.0g",
                 "carbohydrates": "40.0g",
@@ -2763,7 +2763,7 @@
             },
             {
               "name": "Tacos",
-              "nutrition": {
+              "nutrients": {
                 "calories": 230,
                 "protein": "8.0g",
                 "carbohydrates": "30.0g",
@@ -2775,7 +2775,7 @@
             },
             {
               "name": "Falafel Wrap",
-              "nutrition": {
+              "nutrients": {
                 "calories": 300,
                 "protein": "10.0g",
                 "carbohydrates": "45.0g",
@@ -2787,7 +2787,7 @@
             },
             {
               "name": "Chicken Nuggets",
-              "nutrition": {
+              "nutrients": {
                 "calories": 300,
                 "protein": "15.0g",
                 "carbohydrates": "20.0g",
@@ -2799,7 +2799,7 @@
             },
             {
               "name": "Cheesesteak",
-              "nutrition": {
+              "nutrients": {
                 "calories": 450,
                 "protein": "25.0g",
                 "carbohydrates": "40.0g",
@@ -2811,7 +2811,7 @@
             },
             {
               "name": "Onion Rings",
-              "nutrition": {
+              "nutrients": {
                 "calories": 300,
                 "protein": "3.0g",
                 "carbohydrates": "38.0g",
@@ -2823,7 +2823,7 @@
             },
             {
               "name": "Corn Dog",
-              "nutrition": {
+              "nutrients": {
                 "calories": 220,
                 "protein": "5.0g",
                 "carbohydrates": "30.0g",
@@ -2835,7 +2835,7 @@
             },
             {
               "name": "Potato Wedges",
-              "nutrition": {
+              "nutrients": {
                 "calories": 310,
                 "protein": "4.0g",
                 "carbohydrates": "40.0g",
@@ -2847,7 +2847,7 @@
             },
             {
               "name": "Burrito",
-              "nutrition": {
+              "nutrients": {
                 "calories": 500,
                 "protein": "20.0g",
                 "carbohydrates": "70.0g",
@@ -2859,7 +2859,7 @@
             },
             {
               "name": "Chili Cheese Dog",
-              "nutrition": {
+              "nutrients": {
                 "calories": 380,
                 "protein": "12.0g",
                 "carbohydrates": "24.0g",
@@ -2871,7 +2871,7 @@
             },
             {
               "name": "Fish and Chips",
-              "nutrition": {
+              "nutrients": {
                 "calories": 500,
                 "protein": "20.0g",
                 "carbohydrates": "60.0g",
@@ -2883,7 +2883,7 @@
             },
             {
               "name": "Beef Tacos",
-              "nutrition": {
+              "nutrients": {
                 "calories": 220,
                 "protein": "12.0g",
                 "carbohydrates": "20.0g",
@@ -2895,7 +2895,7 @@
             },
             {
               "name": "Veggie Pizza",
-              "nutrition": {
+              "nutrients": {
                 "calories": 290,
                 "protein": "10.0g",
                 "carbohydrates": "38.0g",
@@ -2907,7 +2907,7 @@
             },
             {
               "name": "BBQ Ribs",
-              "nutrition": {
+              "nutrients": {
                 "calories": 450,
                 "protein": "35.0g",
                 "carbohydrates": "10.0g",
@@ -2919,7 +2919,7 @@
             },
             {
               "name": "Fried Pickles",
-              "nutrition": {
+              "nutrients": {
                 "calories": 250,
                 "protein": "4.0g",
                 "carbohydrates": "30.0g",
@@ -2931,7 +2931,7 @@
             },
             {
               "name": "Potato Skins",
-              "nutrition": {
+              "nutrients": {
                 "calories": 320,
                 "protein": "8.0g",
                 "carbohydrates": "30.0g",
@@ -2943,7 +2943,7 @@
             },
             {
               "name": "Stuffed Peppers",
-              "nutrition": {
+              "nutrients": {
                 "calories": 250,
                 "protein": "15.0g",
                 "carbohydrates": "35.0g",
@@ -2955,7 +2955,7 @@
             },
             {
               "name": "Churros",
-              "nutrition": {
+              "nutrients": {
                 "calories": 250,
                 "protein": "4.0g",
                 "carbohydrates": "36.0g",
@@ -2967,7 +2967,7 @@
             },
             {
               "name": "Mozzarella Sticks",
-              "nutrition": {
+              "nutrients": {
                 "calories": 300,
                 "protein": "15.0g",
                 "carbohydrates": "30.0g",
@@ -2979,7 +2979,7 @@
             },
             {
               "name": "Quesadilla",
-              "nutrition": {
+              "nutrients": {
                 "calories": 350,
                 "protein": "15.0g",
                 "carbohydrates": "40.0g",
@@ -2991,7 +2991,7 @@
             },
             {
               "name": "Tandoori Chicken Wings",
-              "nutrition": {
+              "nutrients": {
                 "calories": 300,
                 "protein": "22.0g",
                 "carbohydrates": "0.0g",
@@ -3003,7 +3003,7 @@
             },
             {
               "name": "Mini Pancakes",
-              "nutrition": {
+              "nutrients": {
                 "calories": 220,
                 "protein": "5.0g",
                 "carbohydrates": "30.0g",
@@ -3015,7 +3015,7 @@
             },
             {
               "name": "Baked Ziti",
-              "nutrition": {
+              "nutrients": {
                 "calories": 400,
                 "protein": "20.0g",
                 "carbohydrates": "45.0g",
@@ -3027,7 +3027,7 @@
             },
             {
               "name": "Fried Rice Balls",
-              "nutrition": {
+              "nutrients": {
                 "calories": 350,
                 "protein": "7.0g",
                 "carbohydrates": "60.0g",
@@ -3039,7 +3039,7 @@
             },
             {
               "name": "Stuffed Crust Pizza",
-              "nutrition": {
+              "nutrients": {
                 "calories": 400,
                 "protein": "18.0g",
                 "carbohydrates": "50.0g",
@@ -3051,7 +3051,7 @@
             },
             {
               "name": "Poutine",
-              "nutrition": {
+              "nutrients": {
                 "calories": 450,
                 "protein": "10.0g",
                 "carbohydrates": "55.0g",
@@ -3063,7 +3063,7 @@
             },
             {
               "name": "Chocolate Lava Cake",
-              "nutrition": {
+              "nutrients": {
                 "calories": 350,
                 "protein": "4.0g",
                 "carbohydrates": "45.0g",
@@ -3075,7 +3075,7 @@
             },
             {
               "name": "BBQ Chicken Pizza",
-              "nutrition": {
+              "nutrients": {
                 "calories": 360,
                 "protein": "20.0g",
                 "carbohydrates": "38.0g",
@@ -3087,7 +3087,7 @@
             },
             {
               "name": "Buffalo Cauliflower Bites",
-              "nutrition": {
+              "nutrients": {
                 "calories": 150,
                 "protein": "5.0g",
                 "carbohydrates": "20.0g",
@@ -3099,7 +3099,7 @@
             },
             {
               "name": "Meatball Sub",
-              "nutrition": {
+              "nutrients": {
                 "calories": 480,
                 "protein": "25.0g",
                 "carbohydrates": "50.0g",
@@ -3111,7 +3111,7 @@
             },
             {
               "name": "Sloppy Joes",
-              "nutrition": {
+              "nutrients": {
                 "calories": 340,
                 "protein": "14.0g",
                 "carbohydrates": "40.0g",
@@ -3123,7 +3123,7 @@
             },
             {
               "name": "Veggie Burger",
-              "nutrition": {
+              "nutrients": {
                 "calories": 300,
                 "protein": "15.0g",
                 "carbohydrates": "35.0g",
@@ -3135,7 +3135,7 @@
             },
             {
               "name": "Pasta Salad",
-              "nutrition": {
+              "nutrients": {
                 "calories": 350,
                 "protein": "10.0g",
                 "carbohydrates": "50.0g",
@@ -3147,7 +3147,7 @@
             },
             {
               "name": "Caesar Salad",
-              "nutrition": {
+              "nutrients": {
                 "calories": 200,
                 "protein": "8.0g",
                 "carbohydrates": "12.0g",
@@ -3159,7 +3159,7 @@
             },
             {
               "name": "Peanut Butter Cup",
-              "nutrition": {
+              "nutrients": {
                 "calories": 280,
                 "protein": "8.0g",
                 "carbohydrates": "30.0g",
@@ -3171,7 +3171,7 @@
             },
             {
               "name": "Chocolate Chip Cookies",
-              "nutrition": {
+              "nutrients": {
                 "calories": 150,
                 "protein": "2.0g",
                 "carbohydrates": "22.0g",
@@ -3183,7 +3183,7 @@
             },
             {
               "name": "Kettle Corn",
-              "nutrition": {
+              "nutrients": {
                 "calories": 150,
                 "protein": "3.0g",
                 "carbohydrates": "27.0g",
@@ -3195,7 +3195,7 @@
             },
             {
               "name": "Burgers",
-              "nutrition": {
+              "nutrients": {
                 "calories": 540,
                 "protein": "35.0g",
                 "carbohydrates": "45.0g",
@@ -3207,7 +3207,7 @@
             },
             {
               "name": "Burritos",
-              "nutrition": {
+              "nutrients": {
                 "calories": 670,
                 "protein": "30.0g",
                 "carbohydrates": "80.0g",
@@ -3219,7 +3219,7 @@
             },
             {
               "name": "French Fries",
-              "nutrition": {
+              "nutrients": {
                 "calories": 365,
                 "protein": "4.0g",
                 "carbohydrates": "63.0g",
@@ -3231,7 +3231,7 @@
             },
             {
               "name": "Chili Cheese Fries",
-              "nutrition": {
+              "nutrients": {
                 "calories": 400,
                 "protein": "8.0g",
                 "carbohydrates": "56.0g",
@@ -3243,7 +3243,7 @@
             },
             {
               "name": "Nachos",
-              "nutrition": {
+              "nutrients": {
                 "calories": 300,
                 "protein": "10.0g",
                 "carbohydrates": "40.0g",
@@ -3255,7 +3255,7 @@
             },
             {
               "name": "Fish and Chips",
-              "nutrition": {
+              "nutrients": {
                 "calories": 800,
                 "protein": "25.0g",
                 "carbohydrates": "80.0g",
@@ -3267,7 +3267,7 @@
             },
             {
               "name": "Buffalo Wings",
-              "nutrition": {
+              "nutrients": {
                 "calories": 450,
                 "protein": "24.0g",
                 "carbohydrates": "15.0g",
@@ -3279,7 +3279,7 @@
             },
             {
               "name": "Samosa",
-              "nutrition": {
+              "nutrients": {
                 "calories": 200,
                 "protein": "4.0g",
                 "carbohydrates": "28.0g",
@@ -3291,7 +3291,7 @@
             },
             {
               "name": "Paneer Tikka",
-              "nutrition": {
+              "nutrients": {
                 "calories": 250,
                 "protein": "20.0g",
                 "carbohydrates": "12.0g",
@@ -3303,7 +3303,7 @@
             },
             {
               "name": "Vada Pav",
-              "nutrition": {
+              "nutrients": {
                 "calories": 250,
                 "protein": "7.0g",
                 "carbohydrates": "35.0g",
@@ -3315,7 +3315,7 @@
             },
             {
               "name": "Pani Puri",
-              "nutrition": {
+              "nutrients": {
                 "calories": 100,
                 "protein": "2.0g",
                 "carbohydrates": "20.0g",
@@ -3327,7 +3327,7 @@
             },
             {
               "name": "Pav Bhaji",
-              "nutrition": {
+              "nutrients": {
                 "calories": 400,
                 "protein": "12.0g",
                 "carbohydrates": "60.0g",
@@ -3339,7 +3339,7 @@
             },
             {
               "name": "Dhokla",
-              "nutrition": {
+              "nutrients": {
                 "calories": 180,
                 "protein": "8.0g",
                 "carbohydrates": "26.0g",
@@ -3351,7 +3351,7 @@
             },
             {
               "name": "Chaat",
-              "nutrition": {
+              "nutrients": {
                 "calories": 150,
                 "protein": "4.0g",
                 "carbohydrates": "20.0g",
@@ -3363,7 +3363,7 @@
             },
             {
               "name": "Ragda Pattice",
-              "nutrition": {
+              "nutrients": {
                 "calories": 350,
                 "protein": "10.0g",
                 "carbohydrates": "50.0g",
@@ -3375,7 +3375,7 @@
             },
             {
               "name": "Masala Dosa",
-              "nutrition": {
+              "nutrients": {
                 "calories": 400,
                 "protein": "10.0g",
                 "carbohydrates": "60.0g",
@@ -3387,7 +3387,7 @@
             },
             {
               "name": "Onion Rings",
-              "nutrition": {
+              "nutrients": {
                 "calories": 300,
                 "protein": "4.0g",
                 "carbohydrates": "40.0g",
@@ -3399,7 +3399,7 @@
             },
             {
               "name": "Aloo Tikki",
-              "nutrition": {
+              "nutrients": {
                 "calories": 120,
                 "protein": "3.0g",
                 "carbohydrates": "22.0g",
@@ -3411,7 +3411,7 @@
             },
             {
               "name": "Methi Malai Murg",
-              "nutrition": {
+              "nutrients": {
                 "calories": 380,
                 "protein": "30.0g",
                 "carbohydrates": "8.0g",
@@ -3423,7 +3423,7 @@
             },
             {
               "name": "Bhel Puri",
-              "nutrition": {
+              "nutrients": {
                 "calories": 250,
                 "protein": "6.0g",
                 "carbohydrates": "38.0g",
@@ -3435,7 +3435,7 @@
             },
             {
               "name": "Dahi Puri",
-              "nutrition": {
+              "nutrients": {
                 "calories": 180,
                 "protein": "5.0g",
                 "carbohydrates": "28.0g",
@@ -3447,7 +3447,7 @@
             },
             {
               "name": "Chole Bhature",
-              "nutrition": {
+              "nutrients": {
                 "calories": 500,
                 "protein": "15.0g",
                 "carbohydrates": "80.0g",
@@ -3459,7 +3459,7 @@
             },
             {
               "name": "Sev Puri",
-              "nutrition": {
+              "nutrients": {
                 "calories": 220,
                 "protein": "5.0g",
                 "carbohydrates": "30.0g",
@@ -3471,7 +3471,7 @@
             },
             {
               "name": "Pav Bhaji",
-              "nutrition": {
+              "nutrients": {
                 "calories": 400,
                 "protein": "12.0g",
                 "carbohydrates": "60.0g",
@@ -3483,7 +3483,7 @@
             },
             {
               "name": "Tandoori Chicken",
-              "nutrition": {
+              "nutrients": {
                 "calories": 300,
                 "protein": "25.0g",
                 "carbohydrates": "5.0g",
@@ -3495,7 +3495,7 @@
             },
             {
               "name": "Vegetable Pulao",
-              "nutrition": {
+              "nutrients": {
                 "calories": 250,
                 "protein": "7.0g",
                 "carbohydrates": "40.0g",
@@ -3507,7 +3507,7 @@
             },
             {
               "name": "Kadhi Chawal",
-              "nutrition": {
+              "nutrients": {
                 "calories": 400,
                 "protein": "10.0g",
                 "carbohydrates": "60.0g",
@@ -3519,7 +3519,7 @@
             },
             {
               "name": "Rajma Chawal",
-              "nutrition": {
+              "nutrients": {
                 "calories": 450,
                 "protein": "12.0g",
                 "carbohydrates": "70.0g",
@@ -3531,7 +3531,7 @@
             },
             {
               "name": "Chole Rice",
-              "nutrition": {
+              "nutrients": {
                 "calories": 480,
                 "protein": "15.0g",
                 "carbohydrates": "70.0g",
@@ -3543,7 +3543,7 @@
             },
             {
               "name": "Pasta",
-              "nutrition": {
+              "nutrients": {
                 "calories": 370,
                 "protein": "14.0g",
                 "carbohydrates": "60.0g",
@@ -3555,7 +3555,7 @@
             },
             {
               "name": "Fried Rice",
-              "nutrition": {
+              "nutrients": {
                 "calories": 330,
                 "protein": "8.0g",
                 "carbohydrates": "56.0g",
@@ -3567,7 +3567,7 @@
             },
             {
               "name": "Vegetable Soup",
-              "nutrition": {
+              "nutrients": {
                 "calories": 120,
                 "protein": "4.0g",
                 "carbohydrates": "20.0g",
@@ -3579,7 +3579,7 @@
             },
             {
               "name": "Spring Rolls",
-              "nutrition": {
+              "nutrients": {
                 "calories": 150,
                 "protein": "3.0g",
                 "carbohydrates": "25.0g",
@@ -3591,7 +3591,7 @@
             },
             {
               "name": "Paneer Butter Masala",
-              "nutrition": {
+              "nutrients": {
                 "calories": 420,
                 "protein": "15.0g",
                 "carbohydrates": "30.0g",
@@ -3603,7 +3603,7 @@
             },
             {
               "name": "Vegetable Biryani",
-              "nutrition": {
+              "nutrients": {
                 "calories": 450,
                 "protein": "12.0g",
                 "carbohydrates": "70.0g",
@@ -3615,7 +3615,7 @@
             },
             {
               "name": "Fried Paneer",
-              "nutrition": {
+              "nutrients": {
                 "calories": 300,
                 "protein": "20.0g",
                 "carbohydrates": "15.0g",
@@ -3627,7 +3627,7 @@
             },
             {
               "name": "Pasta Primavera",
-              "nutrition": {
+              "nutrients": {
                 "calories": 320,
                 "protein": "10.0g",
                 "carbohydrates": "55.0g",
@@ -3639,7 +3639,7 @@
             },
             {
               "name": "Vegetable Stir Fry",
-              "nutrition": {
+              "nutrients": {
                 "calories": 250,
                 "protein": "6.0g",
                 "carbohydrates": "40.0g",
@@ -3651,7 +3651,7 @@
             },
             {
               "name": "Mushroom Risotto",
-              "nutrition": {
+              "nutrients": {
                 "calories": 350,
                 "protein": "12.0g",
                 "carbohydrates": "55.0g",
@@ -3663,7 +3663,7 @@
             },
             {
               "name": "Fruit Salad",
-              "nutrition": {
+              "nutrients": {
                 "calories": 100,
                 "protein": "1.0g",
                 "carbohydrates": "25.0g",
@@ -3675,7 +3675,7 @@
             },
             {
               "name": "Quinoa Salad",
-              "nutrition": {
+              "nutrients": {
                 "calories": 220,
                 "protein": "8.0g",
                 "carbohydrates": "30.0g",
@@ -3687,7 +3687,7 @@
             },
             {
               "name": "Greek Yogurt",
-              "nutrition": {
+              "nutrients": {
                 "calories": 100,
                 "protein": "10.0g",
                 "carbohydrates": "5.0g",
@@ -3699,7 +3699,7 @@
             },
             {
               "name": "Chocolate Mousse",
-              "nutrition": {
+              "nutrients": {
                 "calories": 300,
                 "protein": "6.0g",
                 "carbohydrates": "35.0g",
@@ -3711,7 +3711,7 @@
             },
             {
               "name": "Ice Cream",
-              "nutrition": {
+              "nutrients": {
                 "calories": 200,
                 "protein": "3.0g",
                 "carbohydrates": "28.0g",
@@ -3723,7 +3723,7 @@
             },
             {
               "name": "Cheesecake",
-              "nutrition": {
+              "nutrients": {
                 "calories": 400,
                 "protein": "8.0g",
                 "carbohydrates": "35.0g",
@@ -3735,7 +3735,7 @@
             },
                 {
                   "name": "Avocado Toast",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 250,
                     "protein": "7.0g",
                     "carbohydrates": "30.0g",
@@ -3747,7 +3747,7 @@
                 },
                 {
                   "name": "Sweet Potato Fries",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 150,
                     "protein": "2.0g",
                     "carbohydrates": "30.0g",
@@ -3759,7 +3759,7 @@
                 },
                 {
                   "name": "Eggplant Parmesan",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 350,
                     "protein": "15.0g",
                     "carbohydrates": "25.0g",
@@ -3771,7 +3771,7 @@
                 },
                 {
                   "name": "Minestrone Soup",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 180,
                     "protein": "8.0g",
                     "carbohydrates": "30.0g",
@@ -3783,7 +3783,7 @@
                 },
                 {
                   "name": "Stuffed Peppers",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 220,
                     "protein": "10.0g",
                     "carbohydrates": "30.0g",
@@ -3795,7 +3795,7 @@
                 },
                 {
                   "name": "Quiche",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 350,
                     "protein": "12.0g",
                     "carbohydrates": "30.0g",
@@ -3807,7 +3807,7 @@
                 },
                 {
                   "name": "Caprese Salad",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 200,
                     "protein": "10.0g",
                     "carbohydrates": "6.0g",
@@ -3819,7 +3819,7 @@
                 },
                 {
                   "name": "Salmon Fillet",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 400,
                     "protein": "40.0g",
                     "carbohydrates": "0.0g",
@@ -3831,7 +3831,7 @@
                 },
                 {
                   "name": "Cauliflower Rice",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 100,
                     "protein": "4.0g",
                     "carbohydrates": "20.0g",
@@ -3843,7 +3843,7 @@
                 },
                 {
                   "name": "Chicken Tikka Masala",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 400,
                     "protein": "30.0g",
                     "carbohydrates": "30.0g",
@@ -3855,7 +3855,7 @@
                 },
                 {
                   "name": "Falafel Wrap",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 350,
                     "protein": "12.0g",
                     "carbohydrates": "45.0g",
@@ -3867,7 +3867,7 @@
                 },
                 {
                   "name": "Shrimp Stir Fry",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 300,
                     "protein": "25.0g",
                     "carbohydrates": "30.0g",
@@ -3879,7 +3879,7 @@
                 },
                 {
                   "name": "Lentil Soup",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 230,
                     "protein": "15.0g",
                     "carbohydrates": "35.0g",
@@ -3891,7 +3891,7 @@
                 },
                 {
                   "name": "Roasted Chickpeas",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 180,
                     "protein": "9.0g",
                     "carbohydrates": "30.0g",
@@ -3903,7 +3903,7 @@
                 },
                 {
                   "name": "Oven-Baked Zucchini Fries",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 130,
                     "protein": "3.0g",
                     "carbohydrates": "24.0g",
@@ -3915,7 +3915,7 @@
                 },
                 {
                   "name": "Beef Tacos",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 320,
                     "protein": "20.0g",
                     "carbohydrates": "40.0g",
@@ -3927,7 +3927,7 @@
                 },
                 {
                   "name": "Cheese Quesadilla",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 400,
                     "protein": "18.0g",
                     "carbohydrates": "30.0g",
@@ -3939,7 +3939,7 @@
                 },
                 {
                   "name": "Spaghetti Aglio e Olio",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 350,
                     "protein": "10.0g",
                     "carbohydrates": "55.0g",
@@ -3951,7 +3951,7 @@
                 },
                 {
                   "name": "Cabbage Rolls",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 280,
                     "protein": "15.0g",
                     "carbohydrates": "35.0g",
@@ -3963,7 +3963,7 @@
                 },
                 {
                   "name": "Chicken Caesar Salad",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 400,
                     "protein": "30.0g",
                     "carbohydrates": "15.0g",
@@ -3975,7 +3975,7 @@
                 },
                 {
                   "name": "Potato Wedges",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 200,
                     "protein": "4.0g",
                     "carbohydrates": "40.0g",
@@ -3987,7 +3987,7 @@
                 },
                 {
                   "name": "Hummus",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 150,
                     "protein": "5.0g",
                     "carbohydrates": "20.0g",
@@ -3999,7 +3999,7 @@
                 },
                 {
                   "name": "Crab Cakes",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 300,
                     "protein": "15.0g",
                     "carbohydrates": "20.0g",
@@ -4011,7 +4011,7 @@
                 },
                 {
                   "name": "Pasta Primavera",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 320,
                     "protein": "12.0g",
                     "carbohydrates": "50.0g",
@@ -4023,7 +4023,7 @@
                 },
                 {
                   "name": "Turkey Burger",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 350,
                     "protein": "28.0g",
                     "carbohydrates": "30.0g",
@@ -4035,7 +4035,7 @@
                 },
                 {
                   "name": "Peach Smoothie",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 180,
                     "protein": "5.0g",
                     "carbohydrates": "35.0g",
@@ -4047,7 +4047,7 @@
                 },
                 {
                   "name": "Greek Yogurt Parfait",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 250,
                     "protein": "15.0g",
                     "carbohydrates": "30.0g",
@@ -4059,7 +4059,7 @@
                 },
                 {
                   "name": "Zucchini Noodles",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 50,
                     "protein": "2.0g",
                     "carbohydrates": "10.0g",
@@ -4071,7 +4071,7 @@
                 },
                 {
                   "name": "Veggie Sushi Roll",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 200,
                     "protein": "5.0g",
                     "carbohydrates": "35.0g",
@@ -4083,7 +4083,7 @@
                 },
                 {
                   "name": "Chia Seed Pudding",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 180,
                     "protein": "5.0g",
                     "carbohydrates": "20.0g",
@@ -4095,7 +4095,7 @@
                 },
                 {
                   "name": "Vegetable Stir Fry",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 250,
                     "protein": "8.0g",
                     "carbohydrates": "35.0g",
@@ -4107,7 +4107,7 @@
                 },
                 {
                   "name": "Coconut Curry",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 350,
                     "protein": "10.0g",
                     "carbohydrates": "50.0g",
@@ -4119,7 +4119,7 @@
                 },
                 {
                   "name": "Beet Salad",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 200,
                     "protein": "6.0g",
                     "carbohydrates": "30.0g",
@@ -4131,7 +4131,7 @@
                 },
                 {
                   "name": "Pancakes",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 350,
                     "protein": "8.0g",
                     "carbohydrates": "60.0g",
@@ -4143,7 +4143,7 @@
                 },
                 {
                   "name": "Barley Salad",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 220,
                     "protein": "6.0g",
                     "carbohydrates": "40.0g",
@@ -4155,7 +4155,7 @@
                 },
                 {
                   "name": "Sushi",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 300,
                     "protein": "15.0g",
                     "carbohydrates": "40.0g",
@@ -4167,7 +4167,7 @@
                 },
                 {
                   "name": "Pumpkin Soup",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 150,
                     "protein": "4.0g",
                     "carbohydrates": "30.0g",
@@ -4179,7 +4179,7 @@
                 },
                 {
                   "name": "Avocado Salad",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 230,
                     "protein": "6.0g",
                     "carbohydrates": "12.0g",
@@ -4191,7 +4191,7 @@
                 },
                 {
                   "name": "Banana Bread",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 220,
                     "protein": "3.0g",
                     "carbohydrates": "40.0g",
@@ -4203,7 +4203,7 @@
                 },
                 {
                   "name": "Baked Apples",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 180,
                     "protein": "1.0g",
                     "carbohydrates": "30.0g",
@@ -4215,7 +4215,7 @@
                 },
                 {
                   "name": "Cucumber Sandwiches",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 120,
                     "protein": "4.0g",
                     "carbohydrates": "20.0g",
@@ -4227,7 +4227,7 @@
                 },
                 {
                   "name": "Saffron Rice",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 250,
                     "protein": "5.0g",
                     "carbohydrates": "40.0g",
@@ -4239,7 +4239,7 @@
                 },
                 {
                   "name": "Spicy Tuna Poke",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 350,
                     "protein": "20.0g",
                     "carbohydrates": "30.0g",
@@ -4251,7 +4251,7 @@
                 },
                 {
                   "name": "Peanut Butter Banana Smoothie",
-                  "nutrition": {
+                  "nutrients": {
                     "calories": 300,
                     "protein": "10.0g",
                     "carbohydrates": "45.0g",
