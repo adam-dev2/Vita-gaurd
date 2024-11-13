@@ -1,0 +1,20 @@
+[
+  {
+    "id": "4152f43a-0bf5-4164-996a-37fdaaf366ae",
+    "username": "testuser",
+    "password": "$2a$10$1GHwmwZzuRmxIdeEMZ.Y1eIcB/6AMNUPzbbjRtlHnpObutv6PF4Sm",
+    "inventory": []
+  },
+  {
+    "id": "2b41c231-b322-4e2e-8189-192f7e8c4f5e",
+    "username": "rat",
+    "password": "$2a$10$FMNakjRNwff2LWMAfic3nuiZ680Q4dK.H3kS2EulJIpPL5F5RZgNK",
+    "inventory": []
+  },
+  {
+    "id": "5c10900e-6998-4811-b7f5-d3f5b4521868",
+    "username": "shaikadam252@gmail.com",
+    "password": "$2a$10$nhyutFGZp2LzIo3vrNEzneeAhA.Rzju4/pHy0YKFkWAgn3XKlKiES",
+    "inventory": []
+  }
+]
