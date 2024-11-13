@@ -1,18 +1,28 @@
-import { Card, CardContent, Typography, Button, Grid2 } from '@mui/material';
+import React from 'react';
+import { Card, CardContent, Typography, Button } from '@mui/material';
 
 const FoodCard = ({ food, addToInventory }) => {
   return (
-    <Grid2 item xs={12} sm={6} md={4}>
-      <Card>
-        <CardContent>
-          <Typography variant="h6">{food.name}</Typography>
-          <Typography variant="body2">Protein: {food.nutrients}</Typography>
-          <Button variant="contained" onClick={() => addToInventory(food.name)} sx={{ mt: 2 }}>
-            Add to Inventory
-          </Button>
-        </CardContent>
-      </Card>
-    </Grid2>
+    <Card>
+      <CardContent>
+        <Typography variant="h5">{food.name}</Typography>
+        
+        <Typography variant="body2">
+          {food.nutrients 
+            ? Object.entries(food.nutrients).map(([key, value]) => (
+                <div key={key}>
+                  {key}: {value}
+                </div>
+              ))
+            : <div>No nutrient data available</div>
+          }
+        </Typography>
+        
+        <Button variant="contained" onClick={() => addToInventory(food.name)}>
+          Add to Inventory
+        </Button>
+      </CardContent>
+    </Card>
   );
 };
 
