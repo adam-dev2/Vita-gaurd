@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import { Container, Typography, Box, Grid, Paper } from '@mui/material';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
+import NavBar from '../components/NavBar';
 
 const Profile = () => {
   const [nutrition, setNutrition] = useState({});
@@ -29,6 +30,8 @@ const Profile = () => {
   }, [navigate]);
 
   return (
+    <>
+    <NavBar />
     <Container>
       <Box sx={{ mt: 5 }}>
         <Typography variant="h4">Nutrition Summary</Typography>
@@ -49,6 +52,7 @@ const Profile = () => {
         </Grid>
       </Box>
     </Container>
+    </>
   );
 };
 

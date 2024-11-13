@@ -1,43 +1,19 @@
 [
   {
-    "id": "d5012e93-a571-41fc-bbd3-6e760498b0f1",
+    "id": "d8abcc70-05e8-4941-a9f4-c9e1440f4d74",
     "username": "shaikadam252@gmail.com",
-    "password": "$2a$10$Z.u1TgxA5KXyZwh13O3MzuGavSBa8ZcdSXDHpuogrcbkKE8sMe94C",
+    "password": "$2a$10$c2v/cp1DC63NHhGftv1Y1eyWnZ9Fgmsl9yOnIIz4x.dzkpuk1EL8O",
     "inventory": [
       {
-        "name": "Baked Apples",
+        "name": "Apple",
         "nutrients": {
-          "calories": 180,
-          "protein": "1.0g",
-          "carbohydrates": "30.0g",
-          "fat": "5.0g",
-          "fiber": "4.0g",
-          "calcium": "25mg",
-          "iron": "0.3mg"
-        }
-      },
-      {
-        "name": "Baked Apples",
-        "nutrients": {
-          "calories": 180,
-          "protein": "1.0g",
-          "carbohydrates": "30.0g",
-          "fat": "5.0g",
-          "fiber": "4.0g",
-          "calcium": "25mg",
-          "iron": "0.3mg"
-        }
-      },
-      {
-        "name": "Custard Apple",
-        "nutrients": {
-          "Protein": "2.0g",
+          "Protein": "0.3g",
           "Vitamin D": "-",
-          "Calcium": "18mg",
-          "Iron": "0.18mg",
-          "Potassium": "358mg",
-          "Vitamin A": "0mcg",
-          "Vitamin C": "18.5mg"
+          "Calcium": "6mg",
+          "Iron": "0.1mg",
+          "Potassium": "107mg",
+          "Vitamin A": "54mcg",
+          "Vitamin C": "4.6mg"
         }
       },
       {
@@ -51,7 +27,25 @@
           "calcium": "20mg",
           "iron": "1.0mg"
         }
+      },
+      {
+        "name": "Karela Ki Sabzi",
+        "nutrients": {
+          "calories": 70,
+          "protein": "3.0g",
+          "carbohydrates": "14.0g",
+          "fat": "1.0g",
+          "fiber": "4.0g",
+          "calcium": "20mg",
+          "iron": "0.8mg"
+        }
       }
     ]
+  },
+  {
+    "id": "9b2daf82-69b7-43f2-a9ec-0a5262506d1b",
+    "username": "asdasd",
+    "password": "$2a$10$13EGHfo5MOJMb5rS.guZi.2phR5eoi4S8iBn2mr1b0K8Gk5/Ij2JW",
+    "inventory": []
   }
 ]

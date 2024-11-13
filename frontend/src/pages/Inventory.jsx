@@ -3,6 +3,7 @@ import { Container, Grid, Typography, Box } from '@mui/material';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 import FoodCard from '../components/FoodCard';
+import NavBar from '../components/NavBar';
 
 const Inventory = () => {
   const [inventory, setInventory] = useState([]);
@@ -29,9 +30,11 @@ const Inventory = () => {
   }, [navigate]);
 
   return (
+    <>
+    <NavBar />
     <Container>
       <Box sx={{ mt: 5 }}>
-        <Typography variant="h4">Your Inventory</Typography>
+        <Typography variant="h4" marginBottom='5%'>Your Inventory</Typography>
         {error && <Typography color="error">{error}</Typography>}
         <Grid container spacing={2}>
           {inventory.map((food, idx) => (
@@ -40,6 +43,7 @@ const Inventory = () => {
         </Grid>
       </Box>
     </Container>
+    </>
   );
 };
 

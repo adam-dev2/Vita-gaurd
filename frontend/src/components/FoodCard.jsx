@@ -1,8 +1,10 @@
 import React from 'react';
 import { Card, CardContent, Typography, Button } from '@mui/material';
+import NavBar from './NavBar';
 
 const FoodCard = ({ food, addToInventory }) => {
   return (
+    <>
     <Card>
       <CardContent>
         <Typography variant="h5">{food.name}</Typography>
@@ -18,11 +20,12 @@ const FoodCard = ({ food, addToInventory }) => {
           }
         </Typography>
         
-        <Button variant="contained" onClick={() => addToInventory(food.name)}>
+        <Button color='success' variant="contained" onClick={() => addToInventory(food.name)}>
           Add to Inventory
         </Button>
       </CardContent>
     </Card>
+    </>
   );
 };
 
