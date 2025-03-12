@@ -11,7 +11,6 @@ import {
 } from 'chart.js';
 import NavBar from '../components/NavBar';
 
-// Register Chart.js components
 ChartJS.register(ArcElement, Tooltip, Legend);
 
 const Profile = () => {
@@ -39,19 +38,17 @@ const Profile = () => {
     fetchNutrition();
   }, [navigate]);
 
-  // Function to handle clearing the nutrition data
   const handleClearNutrition = async () => {
     try {
       await axios.delete('http://localhost:5000/profile/clear-nutrition', {
         headers: { Authorization: `Bearer ${localStorage.getItem('token')}` },
       });
-      setNutrition({}); // Clear the nutrition data from the frontend
+      setNutrition({}); 
     } catch (error) {
       setError('Error clearing nutrition data');
     }
   };
 
-  // Prepare data for the Pie chart
   const pieData = {
     labels: Object.keys(nutrition),
     datasets: [
@@ -81,7 +78,6 @@ const Profile = () => {
           ) : (
             <Typography>No nutrition data available</Typography>
           )}
-          {/* Clear button to reset the nutrition data */}
           <Button 
             variant="contained" 
             color="error" 
